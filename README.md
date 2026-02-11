@@ -1,4 +1,4 @@
-## Project thesis
+## Project Thesis
 
 This analysis is driven by a simple but non-trivial question:
 
